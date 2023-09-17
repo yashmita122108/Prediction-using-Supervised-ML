@@ -1,1 +1,2 @@
 # Prediction-using-Supervised-ML
+Predicting a student's percentage based on study hours using supervised machine learning is a valuable application of data science in education. It can assist students in optimizing their study routines and help educators identify struggling students early. By collecting and preprocessing data, selecting an appropriate model, and evaluating its performance, accurate predictions can be made to benefit both students and educators alike. This predictive model can play a significant role in improving educational outcomes.
